@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaltonRFM
 - 👀 I’m interested in Software Development and Programming!
-- 🌱 I’m currently learning C++, SWift, and other languages!
+- 🌱 I’m currently learning C++, Swift, and other languages!
 - 💞️ I’m looking to collaborate on possible mobile applications and more!
 - 📫 How to reach me: dalton.ford@colorado.edu
 
